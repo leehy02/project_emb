@@ -1,4 +1,4 @@
-# Temperature Monitoring Embedded System
+# 작업자의 환경 관리를 위한 고온 감지 시스템
 
 라즈베리파이를 기반으로 온도 센서를 사용해 환경 상태를 판단하고  
 LCD, LED, 서보모터로 결과를 출력하는 임베디드 제어 시스템입니다.
