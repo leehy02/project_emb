@@ -25,8 +25,3 @@ LCD, LED, 서보모터로 결과를 출력하는 임베디드 제어 시스템�
 - Language: C
 - Platform: Raspberry Pi
 - Library: wiringPi, softPwm
-
-## 실행 방법
-```bash
-gcc main.c -lwiringPi -o main
-./main
